@@ -10,12 +10,6 @@ class SavingsAccount extends Account {
         this.numOfWithdrawals = 0;
     }
 
-    deposit(amount: number) {
-        if (amount > 0) {
-            this.initialBalance += amount;
-        }
-    }
-
     withdraw(amount: number) {
         if (this.numOfWithdrawals === WITHDRAWAL_LIMIT) {
             console.log("ERROR: You were only allowed " + WITHDRAWAL_LIMIT + " withdrawal(s) on this account. You have exceeded that number.");
@@ -25,10 +19,6 @@ class SavingsAccount extends Account {
             this.initialBalance -= amount;
             this.numOfWithdrawals++;
         }
-    }
-
-    checkBalance() {
-        console.log("This account belongs to " + this.ownerName + " and it has $" + this.initialBalance);
     }
 }
 

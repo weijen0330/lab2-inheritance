@@ -15,13 +15,10 @@ class Account {
     }
 
     withdraw(amount: number) {
-        if (this.numOfWithdrawals === WITHDRAWAL_LIMIT) {
-            console.log("ERROR: You were only allowed " + WITHDRAWAL_LIMIT + " withdrawal(s) on this account. You have exceeded that number.");
-        } else if (this.initialBalance === 0 || amount > this.initialBalance) {
+        if (this.initialBalance === 0 || amount > this.initialBalance) {
             console.log("You can't withdraw. You don't have enough money.");
         } else {
             this.initialBalance -= amount;
-            this.numOfWithdrawals++;
         }
     }
 

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a13650c-f6eb-4385-a94c-4f9e9cbff377" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-part1.ts" afterPath="$PROJECT_DIR$/lab2-part1.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-part2.ts" afterPath="$PROJECT_DIR$/lab2-part2.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lab2-part3.ts" afterPath="$PROJECT_DIR$/lab2-part3.ts" />
@@ -22,21 +23,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lab2-part1.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="lab2-part1.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lab2-part1.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lab2-part2.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lab2-part2.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2-part2.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -45,8 +46,8 @@
       <file leaf-file-name="lab2-part3.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lab2-part3.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="390">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="27" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -60,9 +61,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lab2-part3.ts" />
-        <option value="$PROJECT_DIR$/lab2-part2.ts" />
         <option value="$PROJECT_DIR$/lab2-part1.ts" />
+        <option value="$PROJECT_DIR$/lab2-part2.ts" />
+        <option value="$PROJECT_DIR$/lab2-part3.ts" />
       </list>
     </option>
   </component>
@@ -186,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484073905524</updated>
-      <workItem from="1484073906921" duration="1873000" />
+      <workItem from="1484073906921" duration="2136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1873000" />
+    <option name="totallyTimeSpent" value="2136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="420" y="23" width="1100" height="761" extended-state="0" />
@@ -223,6 +224,7 @@
       <list>
         <option value="$PROJECT_DIR$/lab2-part1.js" />
         <option value="$PROJECT_DIR$/lab2-part2.js" />
+        <option value="$PROJECT_DIR$/lab2-part3.js" />
       </list>
     </option>
   </component>
@@ -236,24 +238,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lab2-part3.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab2-part1.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="390">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lab2-part2.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab2-part1.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
